@@ -5,7 +5,7 @@
 </p>
   
   
-<img src="https://github.com/murilobernado/We-Care-Your-Pet/blob/master/Assets/Mockup%20We%20Care.png" alt="Mockup">
+<img src="https://github.com/murilobernado/We-Care-About-Your-Pet/blob/master/Assets/Mockup%20We%20Care.png" alt="Mockup">
 
 
 
